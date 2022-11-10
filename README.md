@@ -10,6 +10,6 @@ Spacebar: Jump
 
 0: Stop
 
-5: Start Game (Future Addition)
+5: Start Game
 
-6: Stop Game (Future Addition)
+6: Stop Game
