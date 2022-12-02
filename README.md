@@ -1,5 +1,11 @@
 # HankteA_StranskyJ
 
-hw1 folder has hw1 project files
+Using Standard VR controls:
 
-hw2 folder has hw2 project files
+Left stick changes camera/player direction
+Right stick for movement
+
+Both left and right controllers have the ability to grab knifes.
+
+Throwing a knife is similar to throwing in real life, the momentum to carry the 
+knife will be determined in part by your velocity when releasing the knife.
